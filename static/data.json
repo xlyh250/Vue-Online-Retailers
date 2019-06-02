@@ -1,0 +1,77 @@
+{
+    "nav": [
+        "../../../../static/assets/images/nav0.png",
+        "../../../../static/assets/images/nav1.png",
+        "../../../../static/assets/images/nav2.png",
+        "../../../../static/assets/images/nav3.png",
+        "../../../../static/assets/images/nav4.png",
+        "../../../../static/assets/images/nav5.png",
+        "../../../../static/assets/images/nav6.png",
+        "../../../../static/assets/images/nav7.png",
+        "../../../../static/assets/images/nav0.png",
+        "../../../../static/assets/images/nav1.png",
+        "../../../../static/assets/images/nav2.png",
+        "../../../../static/assets/images/nav3.png",
+        "../../../../static/assets/images/nav4.png",
+        "../../../../static/assets/images/nav5.png"
+    ],
+    "swiper": [
+        "../../../../static/assets/images/l1.jpg",
+        "../../../../static/assets/images/l2.jpg",
+        "../../../../static/assets/images/l3.jpg",
+        "../../../../static/assets/images/l4.jpg",
+        "../../../../static/assets/images/l5.jpg"
+    ],
+    "recommend": [
+        {
+            "id":0,
+            "url":"https://ss0.bdstatic.com/94oJfD_bAAcT8t7mm9GUKT-xh_/timg?image&quality=100&size=b4000_4000&sec=1549686016&di=61b27fc943179794af4fc3cf20e5c4a6&src=http://b-ssl.duitang.com/uploads/item/201601/24/20160124205946_BKjtQ.jpeg",
+            "name":"长泽雅美",
+            "description":"日本女演员",
+            "price":"100"
+        },
+        {
+            "id":1,
+            "url":"https://img3.doubanio.com/view/photo/m/public/p2535977614.webp",
+            "name": "长泽雅美",
+            "description": "日本女演员",
+            "price": "200"
+        },
+        {
+            "id":2,
+           "url":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1549696451000&di=fd1ce3a7f39a2febdd47702b01b20c34&imgtype=0&src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201506%2F20%2F20150620224348_ajx2z.jpeg",
+            "name": "新垣结衣",
+            "description": "日本女演员",
+            "price": "250"
+        },
+        {
+            "id":3,
+        "url":"https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=1139417353,2641492575&fm=26&gp=0.jpg",
+        "name": "新垣结衣",
+        "description": "日本女演员",
+        "price": "150"
+        },
+        {
+            "id":4,
+            "url":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1549696451000&di=d630e06f3cc9b00389fc522c87399729&imgtype=0&src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201601%2F25%2F20160125141749_JuUzW.jpeg",
+            "name": "新垣结衣",
+            "description": "日本女演员",
+            "price": "300"
+        },
+        {
+            "id":5,
+            "url":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1550291252&di=35811c41b61d7ff38ff5693b272d0d22&imgtype=jpg&er=1&src=http%3A%2F%2Fimg3.duitang.com%2Fuploads%2Fitem%2F201604%2F21%2F20160421090505_rG8WN.jpeg",
+            "name": "新垣结衣",
+            "description": "日本女演员",
+            "price": "400"
+        }
+    ],
+    "goods":[
+             "../../../static/assets/images/nav0.png",
+             "../../../static/assets/images/nav1.png",
+             "../../../static/assets/images/nav2.png",
+             "../../../static/assets/images/nav3.png",
+             "../../../static/assets/images/nav4.png",
+             "../../../static/assets/images/nav5.png"
+    ]
+}
