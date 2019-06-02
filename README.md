@@ -2,6 +2,8 @@
 
 > A Vue.js project
 
+vue和thinkphp5结合的一个前后端分离电商小网站
+
 ## Build Setup
 
 ``` bash
